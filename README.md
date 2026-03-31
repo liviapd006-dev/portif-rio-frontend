@@ -155,10 +155,9 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 **Seu Nome**
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [seu-perfil](https://linkedin.com/in/seu-perfil)
-- Email: seu.email@exemplo.com
-
+- GitHub: [gustavao090,liviadp006(https://github.com/seu-usuario)
+- LinkedIn: [nao temos](https://linkedin.com/in/seu-perfil)
+- Email:saymon.rdm@gmail.com,liviapd006@gmail.com
 ## 📞 Suporte
 
 Para dúvidas ou sugestões, abra uma [issue](https://github.com/seu-usuario/portfolio-react/issues).
